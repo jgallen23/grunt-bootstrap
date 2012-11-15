@@ -1,0 +1,41 @@
+{
+  "name": "grunt-bootstrap",
+  "description": "Grunt plugin to generate custom builds of bootstrap",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jgallen23/grunt-bootstrap",
+  "author": {
+    "name": "Greg Allen",
+    "email": "me@jga.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgallen23/grunt-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jgallen23/grunt-bootstrap/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jgallen23/grunt-bootstrap/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "grunt.js",
+  "bin": "bin/grunt-bootstrap",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  },
+  "keywords": [
+    "gruntplugin",
+    "bootstrap"
+  ],
+  "dependencies": {
+    "boots": "~0.3.0"
+  }
+}
