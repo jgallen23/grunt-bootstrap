@@ -91,7 +91,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
-(View)[https://github.com/jgallen23/grunt-bootstrap/blob/master/HISTORY.md]
+[View](https://github.com/jgallen23/grunt-bootstrap/blob/master/HISTORY.md)
 
 ## License
 Copyright (c) 2012 Greg Allen  
