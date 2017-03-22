@@ -30,8 +30,8 @@ grunt.initConfig({
 });
 ```
 
-##Available Components
-###JS
+## Available Components
+### JS
 - bootstrap-transition.js
 - bootstrap-modal.js
 - bootstrap-dropdown.js
@@ -46,7 +46,7 @@ grunt.initConfig({
 - bootstrap-carousel.js
 - bootstrap-typeahead.js
 
-###CSS
+### CSS
 - reset.less
 - scaffolding.less
 - grid.less
